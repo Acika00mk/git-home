@@ -1,0 +1,10 @@
+@import url(http://weloveiconfonts.com/api/?family=fontawesome);
+
+[class*="icon-"]:before {
+    font-family: 'zocial', sans-serif;
+}
+
+* {
+    -webkit-animation-duration: 3s;
+    -webkit-animation-iteration-count: 1;
+}
